@@ -4,7 +4,7 @@ const element = document.createElement("header");
 element.innerHTML = "this is webpack demo";
 element.classList.add('info')
 document.body.appendChild(element);
-import photo from '../../assets/image.png'
+import photo from '../../assets/1.png'
 const img = document.createElement("img");
 img.src=photo;
 img.style.width="50px"

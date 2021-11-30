@@ -1,7 +1,7 @@
 
 .info{
     
-  background-color: rgba(80, 171, 223, 0.822);
+  background-color: teal;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,11 +11,11 @@
 
     
     height: 70px;
-    /* color: black; */
-    color: aliceblue;
-    font-size: 50px;
-    line-height: 1.4;
+    
+    color: paleturquoise;
+    font-size: 80px;
+    line-height: 1.2;
   }
   img{
-    padding-left: 20px;
+    padding-right: 50px;
   }
